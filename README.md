@@ -1,16 +1,20 @@
-# weather_app
+# Weather App
 
-A new Flutter project.
+A simple Flutter app that allows users to search for and view weather details for different countries.
 
-## Getting Started
+## Features
+- **Search Functionality:** Users can search for a country's weather on the home screen.
+- **Weather Details:** Detailed weather information is displayed on a separate screen after searching.
 
-This project is a starting point for a Flutter application.
+## Screenshots
+![profile](https://github.com/user-attachments/assets/c8f125e6-82e5-447e-b817-ee8327cc0238)
 
-A few resources to get you started if this is your first Flutter project:
+*Home screen where users can search for weather by country.*
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+*Details screen showing the weather information for the selected country.*
+
+## Installation
+1. Clone the repo
+   ```bash
+   git clone https://github.com/yourusername/weather_app.git
